@@ -1,0 +1,26 @@
+{
+  "name": "video-frame-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaciraolo/Video-Frame-Extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaciraolo/Video-Frame-Extractor/issues"
+  },
+  "homepage": "https://github.com/lucaciraolo/Video-Frame-Extractor#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ffmpeg-static": "^2.1.0"
+  }
+}
